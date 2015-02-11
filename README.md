@@ -1,4 +1,4 @@
-# crazyflie-CAD
+# CrazyFlie CAD files
 
 This directory contains SolidWorks files related to our quadrotor research in the MIT CSAIL Robot Locomotion Group (http://groups.csail.mit.edu/locomotion/) with the CrazyFlie platform.  More information about the CrazyFlie platform may be found at http://www.bitcraze.se/
 
