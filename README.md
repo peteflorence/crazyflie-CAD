@@ -4,9 +4,9 @@ This directory contains SolidWorks files related to our quadrotor research in th
 
 There are two primary goals for the files in these directories:
 
-1) To find estimates for physical parameters (including inertia matrices) of the CrazyFlie hardware
+-1 To find estimates for physical parameters (including inertia matrices) of the CrazyFlie hardware
 
-2) To design an ultra-lightweight frame that aids with motion-capture-based (i.e., VICON) control
+-2 To design an ultra-lightweight frame that aids with motion-capture-based (i.e., VICON) control
 
 The most recent iterations of the complete Solidworks models may be found in:
 
